@@ -18,8 +18,6 @@ Usage server.
 ./server
 ```
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/Socket_server-1.png)
-
 Usage client.
 
 ```
@@ -28,4 +26,4 @@ python3 client.py 127.0.0.1 8010
 
 PoC:
 
-![](src/pwn_00003.mp4)
+![](./src/pwn_00003.mp4)
